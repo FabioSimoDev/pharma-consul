@@ -16,7 +16,7 @@ const Hero = () => {
 
         <div
           className="relative overflow-hidden px-4 pt-8 p-2 md:px-12 md:py-28 h-5/6"
-          data-aos="zoom-in"
+          // data-aos="zoom-in"
         >
           <div className="relative flex flex-col lg:flex-row py-8 justify-between text-center lg:text-left z-10">
             <div
